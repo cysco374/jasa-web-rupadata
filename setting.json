@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.webekspor.com",
+      "target":"",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "target":"www.webekspor.com",
+      "target":"",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -49,7 +49,7 @@
       "replace-string":[]
     },
     {
-      "target":"www.itb.ac.id",
+      "target":"",
       "element-remove-selector":[
         ".box-header",
         ".box-language",
